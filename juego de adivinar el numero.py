@@ -25,4 +25,4 @@ while i < 8:
 if numero_usuario != numero_secreto:
     print(f"no lograste encontrar el numero el numero secreto era {numero_secreto}")
 print("Juego Terminado")
-print("a no simon")
+
